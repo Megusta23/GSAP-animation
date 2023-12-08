@@ -4,7 +4,7 @@ import ScrollTrigger from "gsap/src/ScrollTrigger";
 
 document.querySelector("#app").innerHTML = `
   <div class="container"> 
-    <h1 class="text">TEXT EFFECT<span>WOAH</span></h1>
+    <h1 class="text">UPDATE<span>WOAH</span></h1>
     <h1 class="text">GSAP<span>AND CLIPPING</span></h1>
     <h1 class="text">CRAZYYY<span>CRAZYYY</span></h1>
     <h1 class="text">HOVER ON ME<span><a href="#"
